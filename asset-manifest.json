@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/siddha-news/static/css/main.170ca044.chunk.css",
-    "main.js": "/siddha-news/static/js/main.6c86113a.chunk.js",
-    "main.js.map": "/siddha-news/static/js/main.6c86113a.chunk.js.map",
+    "main.css": "/siddha-news/static/css/main.b3bb2de2.chunk.css",
+    "main.js": "/siddha-news/static/js/main.5ae00699.chunk.js",
+    "main.js.map": "/siddha-news/static/js/main.5ae00699.chunk.js.map",
     "runtime-main.js": "/siddha-news/static/js/runtime-main.fe621230.js",
     "runtime-main.js.map": "/siddha-news/static/js/runtime-main.fe621230.js.map",
     "static/js/2.772a3ceb.chunk.js": "/siddha-news/static/js/2.772a3ceb.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.cff88e48.chunk.js": "/siddha-news/static/js/3.cff88e48.chunk.js",
     "static/js/3.cff88e48.chunk.js.map": "/siddha-news/static/js/3.cff88e48.chunk.js.map",
     "index.html": "/siddha-news/index.html",
-    "static/css/main.170ca044.chunk.css.map": "/siddha-news/static/css/main.170ca044.chunk.css.map",
+    "static/css/main.b3bb2de2.chunk.css.map": "/siddha-news/static/css/main.b3bb2de2.chunk.css.map",
     "static/js/2.772a3ceb.chunk.js.LICENSE.txt": "/siddha-news/static/js/2.772a3ceb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fe621230.js",
     "static/js/2.772a3ceb.chunk.js",
-    "static/css/main.170ca044.chunk.css",
-    "static/js/main.6c86113a.chunk.js"
+    "static/css/main.b3bb2de2.chunk.css",
+    "static/js/main.5ae00699.chunk.js"
   ]
 }
