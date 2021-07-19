@@ -1,0 +1,27 @@
+.newsContent {
+    margin: 60px;
+    padding: auto;
+    align-items: center;
+}
+
+.newsContent span {
+    color: black;
+    background-color: #F47174;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.newsContent img {
+    border-radius: 5px 5px 0 0;
+    width: 500px;
+    height: auto;
+    max-width:90%;
+}
+
+.content {
+    font-size: 25px;
+    max-width: 90%;
+    text-align:justify;
+}

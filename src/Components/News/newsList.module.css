@@ -1,0 +1,18 @@
+.newsList {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    align-items: start;
+}
+
+@media only screen and (max-width: 1200px) {
+    .newsList {
+        grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media only screen and (max-width: 800px) {
+    .newsList {
+        grid-template-columns: repeat(1, 1fr);
+    }
+  }
