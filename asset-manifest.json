@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/siddha-news/static/css/main.170ca044.chunk.css",
-    "main.js": "/siddha-news/static/js/main.cbd4c14a.chunk.js",
-    "main.js.map": "/siddha-news/static/js/main.cbd4c14a.chunk.js.map",
+    "main.js": "/siddha-news/static/js/main.a6ebc4c3.chunk.js",
+    "main.js.map": "/siddha-news/static/js/main.a6ebc4c3.chunk.js.map",
     "runtime-main.js": "/siddha-news/static/js/runtime-main.fe621230.js",
     "runtime-main.js.map": "/siddha-news/static/js/runtime-main.fe621230.js.map",
     "static/js/2.772a3ceb.chunk.js": "/siddha-news/static/js/2.772a3ceb.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fe621230.js",
     "static/js/2.772a3ceb.chunk.js",
     "static/css/main.170ca044.chunk.css",
-    "static/js/main.cbd4c14a.chunk.js"
+    "static/js/main.a6ebc4c3.chunk.js"
   ]
 }
